@@ -15,7 +15,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 GOOGLE_AI_KEY = os.getenv("GOOGLE_AI_KEY")
-DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+DISCORD_BOT_TOKEN = os.getenv("MTIwODQxMjEyMzI5MDUzMzkwOA.GA6DHr.MrqtSyXM_-itoQU289mBMJ_7vhpG6f4V4Wy8Z0")
 MAX_HISTORY = int(os.getenv("MAX_HISTORY"))
 
 #Default Summary Prompt if you just shove a URL in
